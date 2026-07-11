@@ -55,7 +55,7 @@ diverged = "⇕⇡${ahead_count}⇣${behind_count}"
 conflicted = "="
 up_to_date = ""
 untracked = "?"
-stashed = "\$"
+stashed = '\$'
 modified = "!"
 staged = "+"
 renamed = "»"
