@@ -17,3 +17,4 @@ zstyle ':completion:*' rehash true
 fpath=(/usr/share/zsh/site-functions $fpath)
 
 [[ -r "$ZDOTDIR/aliases.zsh" ]] && source "$ZDOTDIR/aliases.zsh"
+[[ -r "$ZDOTDIR/tools.zsh" ]] && source "$ZDOTDIR/tools.zsh"
