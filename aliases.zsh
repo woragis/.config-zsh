@@ -2,6 +2,7 @@
 alias ls='ls --color=auto'
 alias ll='ls -lah --group-directories-first'
 alias la='ls -A'
+alias vim='nvim'
 alias grep='grep --color=auto'
 alias ..='cd ..'
 alias ...='cd ../..'
